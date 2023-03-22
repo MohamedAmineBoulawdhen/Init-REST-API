@@ -17,7 +17,7 @@ Before starting, make sure you have the following:
 
    ```sh
    npm install express mongoose dotenv
-   ```sh
+   ```
 3. Configure the environment variables by creating a .env file at the root of your project:
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/my-database
